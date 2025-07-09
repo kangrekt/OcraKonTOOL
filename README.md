@@ -46,13 +46,18 @@ Jika `requirements.txt` belum tersedia, install manual:
 ```bash
 pip install base58 bip-utils pynacl aiohttp requests beautifulsoup4 colorama twocaptcha
 ```
+Masuk mode venv
 
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 ---
 
 ## 🚀 Cara Menjalankan
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ### Menu
@@ -105,6 +110,7 @@ Saat menjalankan metode faucet, Anda akan ditanya:
 
 ## ⚠️ Catatan Penting
 
+* Gunakan Screen untuk running background
 * Faucet bisa gagal jika saldo habis → akan muncul pesan `"Insufficient balance"`
 * Gunakan proxy unik jika klaim massal dari banyak address
 * Private key disimpan tanpa enkripsi – simpan file `wallet.json` dengan sangat hati-hati!
