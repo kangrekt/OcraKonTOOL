@@ -1,7 +1,9 @@
-rich>=13.0.0
-requests>=2.31.0
-bip-utils>=2.0.0
-pynacl>=1.5.0
-base58>=2.1.1
-aiohttp>=3.9.0
-pyperclip>=1.8.0
+aiohttp
+requests
+colorama
+beautifulsoup4
+base58
+bip-utils
+pynacl
+twocaptcha
+bs4
