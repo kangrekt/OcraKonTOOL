@@ -22,7 +22,7 @@
 | `address.txt`      | File hasil pembuatan wallet Octra                 |
 | `log.txt`          | Alamat random yang di hasilkan setiap transaksi             |
 | `proxies.txt`      | `http://username:password@ip:host``http://ip:port`          |
-| `Key_2captcha.txt` | API key untuk 2Captcha (digunakan untuk solve reCAPTCHA v2) |
+| `2captcha.txt` | API key untuk 2Captcha (digunakan untuk solve reCAPTCHA v2) |
 
 ---
 
@@ -74,7 +74,7 @@ python3 octratool.py
 
 ## ⚙️ Konfigurasi Proxy & CAPTCHA
 
-### 🔐 File `Key_2captcha.txt`
+### 🔐 File `captcha.txt`
 
 Isi file dengan 1 baris API key dari [2captcha.com](https://2captcha.com/):
 
