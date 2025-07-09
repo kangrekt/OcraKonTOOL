@@ -139,6 +139,7 @@ class OctraTool:
             print("=" * 50)
             print("\n📋 Detail wallet tersimpan di file berikut:"
                   "\n   • wallet.json    - Data wallet"
+                  "\n   • mnemonic.txt   - Data wallet"
                   "\n   • address.txt    - Alamat wallet")
             print("\n🔐 Simpan file-file ini di tempat yang aman!")
             
