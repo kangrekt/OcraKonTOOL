@@ -5,5 +5,5 @@ beautifulsoup4
 base58
 bip-utils
 pynacl
-twocaptcha
 bs4
+2captcha-python
