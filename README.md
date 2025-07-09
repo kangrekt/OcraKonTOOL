@@ -37,6 +37,13 @@ cd OcraKonTOOL
 
 ### 2. Install Dependensi
 
+Masuk mode venv
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -45,12 +52,6 @@ Jika `requirements.txt` belum tersedia, install manual:
 
 ```bash
 pip install base58 bip-utils pynacl aiohttp requests beautifulsoup4 colorama twocaptcha
-```
-Masuk mode venv
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
 ```
 ---
 
