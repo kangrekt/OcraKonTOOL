@@ -1,0 +1,9 @@
+aiohttp
+requests
+colorama
+beautifulsoup4
+base58
+bip-utils
+pynacl
+bs4
+2captcha-python
