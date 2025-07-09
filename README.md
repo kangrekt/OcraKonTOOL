@@ -57,7 +57,7 @@ source venv/bin/activate
 ## 🚀 Cara Menjalankan
 
 ```bash
-python3 main.py
+python3 octratool.py
 ```
 
 ### Menu
