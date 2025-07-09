@@ -65,7 +65,7 @@ python3 octratool.py
 
 ```
 1. Buat Wallet     → Generate wallet baru Octra
-2. Faucet          → Klaim faucet otomatis (3 metode tersedia)
+2. Faucet          → Klaim faucet otomatis (2 metode tersedia)
 3. Multi Send      → Kirim OCT ke banyak alamat
 0. Keluar
 ```
