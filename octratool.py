@@ -167,7 +167,7 @@ class OctraTool:
             return
 
         # Configuration
-        SITE_KEY = "6LfeWHYrAAAAABi7KV7jwT6pwlq-Ep7A1pWnse1l"
+        SITE_KEY = "6LekoXkrAAAAAMlLCpc2KJqSeUHye6KMxOL5_SES"
         CLAIM_URL = "https://faucet.octra.network/claim"
         CLAIM_PAGE_URL = "https://faucet.octra.network/"
 
